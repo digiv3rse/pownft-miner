@@ -1,9 +1,0 @@
-{
-    "provider": "https://eth-sepolia.g.alchemy.com/v2/qKOejal-tbfyH6_jIHxCGwExilHgqmbF",
-    "mnemonic": "foot option fancy toilet holiday crush coast mass anger much music inform",
-    "index": 0,
-    "numCores": 4,
-    "gasLimit": 200,
-    "chunkSize": 400000,
-    "dryRun": false
-}
